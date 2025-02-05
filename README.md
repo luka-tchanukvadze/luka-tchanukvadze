@@ -44,9 +44,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luka-tchanukvadze/luka-tchanukvadze/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/luka-tchanukvadze/luka-tchanukvadze/output/github-snake.svg" />
 </picture>
-
-### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-tchanukvadze-600211257) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tchanukvadze.luka@gmail.com)  
 </div>
 
 
