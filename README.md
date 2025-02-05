@@ -1,6 +1,10 @@
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/<luka-tchanukvadze>&count_bg=%2325D60D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
 
-## 🚀 Tech Stack  
+
+<div align='center'>
+
+  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/<luka-tchanukvadze>&count_bg=%2325D60D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
+
+  ## 🚀 Tech Stack  
 
 | **Front-End** | **Back-End** | **Database** | **API & Docs** | **Testing** | **Version Control** |
 |--------------|-------------|--------------|----------------|-------------|----------------------|
@@ -19,3 +23,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luka-tchanukvadze/luka-tchanukvadze/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/luka-tchanukvadze/luka-tchanukvadze/output/github-snake.svg" />
 </picture>
+</div>
+
+
