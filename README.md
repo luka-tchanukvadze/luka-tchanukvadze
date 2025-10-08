@@ -16,7 +16,7 @@ Focused on performance, reusability, and shipping features that actually matter.
 
 ---
 
- *Check pinned projects → my code speaks louder than buzzwords.*  
+  
 [Portfolio](https://portfolio-umber-two-78.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/luka-tchanukvadze)  
 
 
