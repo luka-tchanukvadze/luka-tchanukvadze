@@ -1,10 +1,8 @@
 <div align='center'>
 
-# CHANU 
+# **CHANU**
 
-  
-[Portfolio](https://portfolio-umber-two-78.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/luka-tchanukvadze)  
-
+[**Portfolio**](https://portfolio-umber-two-78.vercel.app/) &nbsp; • &nbsp; [**LinkedIn**](https://www.linkedin.com/in/luka-tchanukvadze)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luka-tchanukvadze/luka-tchanukvadze/output/github-snake-dark.svg" />
