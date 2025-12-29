@@ -7,9 +7,9 @@
 </div>
 
 ### 🌐 Connect with me 🌐
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-umber-two-78.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-tchanukvadze)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-umber-two-78.vercel.app/)
 
 
 
