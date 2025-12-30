@@ -1,5 +1,8 @@
 <div align='center'>
 
+<br/>
+
+<br/>
   
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=3000&color=36BCF7&center=true&vCenter=true&width=1100&lines=The+most+important+step+a+man+can+take...+is+the+next+one.;Life+before+death.+Strength+before+weakness.+Journey+before+destination.;Someone+has+to+start.+Someone+has+to+step+forward.;There's+always+another+secret.;Accept+the+pain,+but+don't+accept+that+you+deserved+it.;Expect+the+unexpected,+and+always+have+a+plan+for+it.;I+will+protect+those+who+cannot+protect+themselves.;Ten+heartbeats.+But+for+me,+it+is+only+one.;A+man's+worth+is+the+sum+of+his+intentions.;Every+ending+is+a+new+beginning." alt="10 Cosmere Quotes" />
